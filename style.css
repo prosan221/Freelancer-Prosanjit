@@ -1,0 +1,176 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+/*This is header-area start now*/
+
+
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    padding-top: 8%;
+}
+h2{
+    font-size: 35px;
+    font-weight: 100;
+}
+.fonts-color{
+    color: #EC4C7A;
+    font-weight: 800;
+    font-size: 45px;
+}
+p{
+    color: #6C6C6C;
+}
+.half-left{
+    width: 38%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+.bottom{
+    background-image: linear-gradient(45deg, #EC5094,#EB4B74);
+    text-decoration: none;
+    color: white;
+    padding: 13px 35px;
+    border-radius: 5px;
+    font-weight: 450;
+    font-size: 13px;
+}
+.half-right{
+    width: 38%;
+    overflow: hidden;
+    margin: 10%,0%;
+}
+.half-right img{
+    width: 100%; 
+}
+
+
+/*This is header-area end now*/
+
+
+/*This is biography-area starting now*/
+
+.Biography-area{
+   background-image: url(images/biography-bg.png);
+   height: 850px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.peter-area{
+    width: 38%;
+    float: left;
+}
+.peter-font{
+    width: 38%;
+    overflow: hidden;
+    padding-top: 18%;
+    padding-left: 17%;
+    padding-bottom: 2%;
+}
+.cv-bottom{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC5094,#EB4B74);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.peter-area img{
+    width: 100%;
+    padding: 26%;
+}
+/* This is biography-area end*/
+
+
+/*This is MY Latest Work-area */
+
+.work-area{
+    padding: 6% 4%;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hedding{
+    text-align: center;
+    padding-bottom: 4%;
+    font-size: 25px;
+}
+.work-images{
+    padding-left: 4%;
+}
+.work-1{
+    width: 30%;
+    padding-left: 1%;
+}
+.work-2{
+    width: 30%;
+    padding-left: 2%;
+}
+.work-3{
+    width: 30%;
+    padding-left: 2%;
+}
+/*This is my latest-area end*/
+
+
+/*this is footer-area stating now*/
+
+.footer-area{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 760px;
+}
+.part-1{
+    padding-top: 6%;
+    padding-bottom: 1%;
+}
+.part-2{
+    padding: 1%;
+}
+.part-3 p{
+    color: black;
+    font-size: 18px;
+    padding-bottom: 4%;
+}
+.last-step{
+    padding: 10px 0px;
+    background-image: linear-gradient(50deg,#a69ea1,#26d7ebe6);
+    margin: 0% 25%;
+    border-radius: 10px;  
+}
+.tdata{
+    margin: auto;
+}
+.link{
+    background-color: #4CAF50; /* Green */
+    border: 1px solid rgb(105, 72, 72);
+    border-radius: 5px;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 5px 5px 5px gray;
+}
+.link a{
+    text-decoration: none;
+}
+.link:hover{
+    background-color: #6C6C6C;
+}
+
+/*This is my footer-area end*/
+
+.the-end{
+    text-align: center;
+    font-size: 12px;
+}
+
+/*I am a junior developer.If you wish ? you can visit my site.*/
